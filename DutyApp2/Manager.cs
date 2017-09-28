@@ -21,6 +21,6 @@ namespace DutyApp2
             this._superior = superior;
         }
 
-        public abstract void RequestApplications(string request);
+        public abstract void RequestApplications(Request request);
     }
 }

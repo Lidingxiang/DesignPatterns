@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DutyApp", "DutyApp\DutyApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DutyApp2", "DutyApp2\DutyApp2.csproj", "{B067C5D5-6F04-4EE2-9781-1FD703CBBB8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorApp", "MediatorApp\MediatorApp.csproj", "{8BDC667E-38B5-4255-AC75-4195983E8350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorApp2", "MediatorApp2\MediatorApp2.csproj", "{2D542047-80C5-4AA0-9200-DD25530F7CB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{B067C5D5-6F04-4EE2-9781-1FD703CBBB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B067C5D5-6F04-4EE2-9781-1FD703CBBB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B067C5D5-6F04-4EE2-9781-1FD703CBBB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDC667E-38B5-4255-AC75-4195983E8350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC667E-38B5-4255-AC75-4195983E8350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC667E-38B5-4255-AC75-4195983E8350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC667E-38B5-4255-AC75-4195983E8350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D542047-80C5-4AA0-9200-DD25530F7CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D542047-80C5-4AA0-9200-DD25530F7CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D542047-80C5-4AA0-9200-DD25530F7CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D542047-80C5-4AA0-9200-DD25530F7CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
